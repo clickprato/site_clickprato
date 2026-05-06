@@ -35,7 +35,7 @@ const HeroSection = () => {
               className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/20 text-primary-foreground mb-6"
             >
               <TrendingUp className="w-4 h-4" />
-              <span className="text-sm font-medium">+500 restaurantes confiam em nós</span>
+              <span className="text-sm font-medium">+50 restaurantes confiam em nós</span>
             </motion.div>
 
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-primary-foreground mb-6 leading-tight">
