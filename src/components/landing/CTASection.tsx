@@ -37,7 +37,7 @@ const CTASection = () => {
             <span className="text-primary">delivery?</span>
           </h2>
           <p className="text-lg md:text-xl text-primary-foreground/80 mb-8">
-            Junte-se a mais de 500 restaurantes que já aumentaram suas vendas com o ClickPrato
+            Junte-se a mais de 50 restaurantes que já aumentaram suas vendas com o ClickPrato
           </p>
 
           {/* Benefits list */}
@@ -64,7 +64,7 @@ const CTASection = () => {
               size="xl"
               asChild
             >
-              <a href="https://clickprato.codclick.com.br" target="_blank" rel="noopener noreferrer">
+              <a href="https://best-pizza.clickprato.com.br" target="_blank" rel="noopener noreferrer">
                 Ver Demonstração Agora
                 <ArrowRight className="w-5 h-5 ml-2" />
               </a>
@@ -73,7 +73,7 @@ const CTASection = () => {
               variant="heroOutline"
               size="xl"
             > 
-              <a href="https://wa.me/5511967121476?text=quero mais informacoes sobre reservas&utm_source=landing_page&utm_content=botao_consultor">
+              <a href="https://wa.me/5511930047549?text=quero mais informacoes sobre reservas&utm_source=landing_page&utm_content=botao_consultor">
               Falar com Consultor
               <ArrowRight className="w-5 h-5 ml-2" />
               </a>
