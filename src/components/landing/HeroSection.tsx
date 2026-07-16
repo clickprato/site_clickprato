@@ -56,7 +56,7 @@ const HeroSection = () => {
                 size="xl"
                 asChild
               >
-                <a href="https://best-pizza.clickprato.com.br" target="_blank" rel="noopener noreferrer">
+                <a href="https://clickprato-top.vercel.app" target="_blank" rel="noopener noreferrer">
                   Ver Demonstração
                   <ArrowRight className="w-5 h-5 ml-2" />
                 </a>
@@ -82,11 +82,11 @@ const HeroSection = () => {
                 <div className="text-sm text-primary-foreground/70">Comissão</div>
               </div>
               <div className="text-center lg:text-left">
-                <div className="text-3xl md:text-4xl font-bold text-primary">50+</div>
+                <div className="text-3xl md:text-4xl font-bold text-primary">500+</div>
                 <div className="text-sm text-primary-foreground/70">Restaurantes</div>
               </div>
               <div className="text-center lg:text-left">
-                <div className="text-3xl md:text-4xl font-bold text-primary">5k+</div>
+                <div className="text-3xl md:text-4xl font-bold text-primary">50k+</div>
                 <div className="text-sm text-primary-foreground/70">Pedidos/mês</div>
               </div>
             </motion.div>
